@@ -2,33 +2,45 @@
     margin: 0;
     padding: 0;
 }
+
 div.container{
     align-items: center;
-    background-image:linear-gradient(rgba(0,0,0,0.3),transparent), url('tool.jpg');
+  
     background-position: center;
     
     background-size: 10%;
     list-style: none;
-    overflow: auto;
+    
     white-space: nowrap;
-    text-align: center;
+   
     font-size: 150%;
     
 }
+
+
+.container{
+    background-color: #ece0d1;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
 div.container a{
     display: inline-block;
-   
+    color: black;
     font-weight: bold;
     text-align: center;
     padding: 14px;
     text-decoration: none;
-    
-    
+    padding-right: 200px;
+    padding-left: 100px;
+    overflow: hidden;
+
 }
 h1{
     font-family: lavishly yours;
     text-align: center;
 }
 a{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: ;
 }
