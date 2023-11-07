@@ -37,3 +37,13 @@ nav a{
         background-size:2000px;
         background-repeat: no-repeat;
         position: fixed;}
+h1{
+    color: #433224;
+    background-color: #e0c5af;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    border:1px solid;
+}
+.kave:hover{
+    box-shadow: 0px 0px 5px #d2b59e;
+}
