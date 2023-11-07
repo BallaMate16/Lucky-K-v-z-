@@ -14,6 +14,9 @@ nav{
     background-color: #ece0d1;
     padding: 15px;
     position: fixed;
+    border-radius: 20px;
+    margin:10px;
+   
 }
 nav a{
     color: black;
