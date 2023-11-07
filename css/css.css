@@ -7,12 +7,14 @@ img{
     width: 50px;
     height: 50px;
 }
-a{
+
+nav{
+    background-color: #ece0d1;
+    padding: 15px;
+    position: fixed;
+}
+nav a{
     color: black;
     font-size: 30px;
     text-decoration: none       ;
-    
-}
-.col-12{
-    background-color: #ece0d1;
 }
