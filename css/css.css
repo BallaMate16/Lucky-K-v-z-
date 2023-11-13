@@ -52,16 +52,44 @@ h1{
 .kave:hover{
     box-shadow: 0px 0px 5px #d2b59e;
 }
-.kepek{
+.kep1{
     background-color: #d2b59e;
-    
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
 }
+.kep2{
+    background-color: #d2b59e;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.kep3{
+    background-color: #d2b59e;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
 p{
     font-size: 45px;
     text-align: right;
 }
-.blogkep{
+.blogkep1{
     float: left;
     width:560px;
     height: 473px;
+   
+}
+.blogkep2{
+    float: left;
+    width:560px;
+    height: 473px;
+   
+}
+.blogkep3{
+    float: left;
+    width:560px;
+    height: 473px;
+   
 }
