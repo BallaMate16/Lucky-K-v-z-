@@ -52,6 +52,14 @@ h1{
 .kave:hover{
     box-shadow: 0px 0px 5px #d2b59e;
 }
+.kave h2{
+   font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
+}
+
 .kep1{
     background-color: #d2b59e;
     margin-left: 50px;
@@ -73,7 +81,7 @@ h1{
 
 p{
     font-size: 45px;
-    text-align: right;
+    text-align: left;
 }
 .blogkep1{
     float: left;
@@ -93,3 +101,4 @@ p{
     height: 473px;
    
 }
+
