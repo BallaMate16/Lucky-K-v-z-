@@ -52,6 +52,16 @@ h1{
 .kave:hover{
     box-shadow: 0px 0px 5px #d2b59e;
 }
+.kepek{
+    background-color: #d2b59e;
+    
+}
+p{
+    font-size: 45px;
+    text-align: right;
+}
 .blogkep{
     float: left;
+    width:560px;
+    height: 473px;
 }
