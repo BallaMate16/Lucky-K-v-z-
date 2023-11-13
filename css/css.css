@@ -52,10 +52,71 @@ h1{
 .kave:hover{
     box-shadow: 0px 0px 5px #d2b59e;
 }
-.blogkep{
-    float: left;
+.kave h2{
+   font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
 }
-.ar{
-    text-align:right;
-        
+
+.kep1{
+    background-color: #d2b59e;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.kep2{
+    background-color: #d2b59e;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.kep3{
+    background-color: #d2b59e;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+p{
+    font-size: 45px;
+    text-align: left;
+}
+.blogkep1{
+    float: left;
+
+}
+
+
+
+.blogkep2{
+    float: left;
+    width:560px;
+    height: 473px;
+   
+}
+.blogkep3{
+    float: left;
+    width:560px;
+    height: 473px;
+   
+}
+
+.suti{
+    color: #433224;
+    background-color: #e0c5af;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    border:1px solid;
+}
+.suti:hover{
+    box-shadow: 0px 0px 5px #d2b59e;
+}
+.suti h2{
+   font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
 }
