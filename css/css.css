@@ -110,6 +110,8 @@ p{
     border-radius: 4px;
     margin-bottom: 1rem;
     border:1px solid;
+    /*position: relative;*/
+    
 }
 .suti:hover{
     box-shadow: 0px 0px 5px #d2b59e;
@@ -120,4 +122,20 @@ p{
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-variant: small-caps;
+}
+
+.col-lg-4{
+    display: inline-block;
+}
+.rolunk h1{
+    text-align: left;
+    font-size: 400%;
+    margin-bottom: 2%;
+}
+.rolunk ul{
+    list-style-type: none;
+    font-size: 200%;
+}
+.rolunk h1 {
+    display: inline-block;
 }
