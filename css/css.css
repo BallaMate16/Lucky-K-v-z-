@@ -62,20 +62,20 @@ h1{
 
 .kep1{
     background-color: #d2b59e;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
     border-radius: 20px;
 }
 .kep2{
     background-color: #d2b59e;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
     border-radius: 20px;
 }
 .kep3{
     background-color: #d2b59e;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
     border-radius: 20px;
 }
 
@@ -85,7 +85,8 @@ p{
 }
 .blogkep1{
     float: left;
-
+    width:560px;
+    height: 473px;
 }
 
 
