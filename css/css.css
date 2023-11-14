@@ -62,20 +62,20 @@ h1{
 
 .kep1{
     background-color: #d2b59e;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
     border-radius: 20px;
 }
 .kep2{
     background-color: #d2b59e;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
     border-radius: 20px;
 }
 .kep3{
     background-color: #d2b59e;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
     border-radius: 20px;
 }
 
@@ -118,8 +118,10 @@ p{
 =======
     width:560px;
     height: 473px;
-   
 }
+
+
+
 .blogkep2{
     float: left;
     width:560px;
@@ -133,4 +135,24 @@ p{
    
 }
 
+<<<<<<< HEAD
 >>>>>>> 5bb39420a8ba0878396c6fb85703d61f631c7325
+=======
+.suti{
+    color: #433224;
+    background-color: #e0c5af;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    border:1px solid;
+}
+.suti:hover{
+    box-shadow: 0px 0px 5px #d2b59e;
+}
+.suti h2{
+   font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
+}
+>>>>>>> f5c1af751d7f309217a489ee8ca486f9b443ce43
