@@ -85,10 +85,11 @@ p{
 }
 .blogkep1{
     float: left;
-    width:560px;
-    height: 473px;
-   
+
 }
+
+
+
 .blogkep2{
     float: left;
     width:560px;
@@ -102,3 +103,20 @@ p{
    
 }
 
+.suti{
+    color: #433224;
+    background-color: #e0c5af;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    border:1px solid;
+}
+.suti:hover{
+    box-shadow: 0px 0px 5px #d2b59e;
+}
+.suti h2{
+   font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
+}
