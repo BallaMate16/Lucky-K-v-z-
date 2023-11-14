@@ -30,6 +30,7 @@ nav a{
     background-position: center center;
     background-size: cover;
     height: 400px;
+    background-repeat: repeat;
 }   
 
 .fooldal{
@@ -62,20 +63,20 @@ h1{
 
 .kep1{
     background-color: #d2b59e;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     border-radius: 20px;
 }
 .kep2{
     background-color: #d2b59e;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     border-radius: 20px;
 }
 .kep3{
     background-color: #d2b59e;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     border-radius: 20px;
 }
 
@@ -85,8 +86,45 @@ p{
 }
 .blogkep1{
     float: left;
-    width:560px;
-    height: 473px;
+
+}
+
+.szoveg1{
+    text-align: left;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    color: #ece0d1;
+    font-weight: 1px;
+}
+
+.szoveg2{
+    text-align: left;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    color: #ece0d1;
+    font-weight: 1px;
+}
+
+.szoveghatter{
+    background-color: rgba(0, 0, 0, 0.6);
+    margin-top: 150px;
+    margin-left: 100px;
+    padding-bottom: 40px;
+    border-radius: 8px;
+}
+
+.kepeskep{
+    padding-left: 175px;
+    max-width: 75%;
+    height: auto;
+    
 }
 
 
@@ -104,6 +142,7 @@ p{
    
 }
 
+<<<<<<< HEAD
 .suti{
     color: #433224;
     background-color: #e0c5af;
@@ -139,3 +178,6 @@ p{
 .rolunk h1 {
     display: inline-block;
 }
+=======
+
+>>>>>>> 5588a9b49f1ce7d1c7d5fb63da7c067e0cfe159c
