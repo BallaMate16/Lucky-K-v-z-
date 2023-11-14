@@ -94,9 +94,36 @@ h1{
 }
 .blogkep1{
     float: left;
-    width:560px;
-    height: 473px;
+
 }
+
+.szoveg1{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    color: #ece0d1;
+    font-weight: 1px;
+}
+
+.szoveg2{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    color: #ece0d1;
+    font-weight: 1px;
+}
+
+.szoveghatter{
+    background-color: rgba(0, 0, 0, 0.6);
+    margin-top: 250px;
+    margin-left: 50px;
+}
+
+
 
 
 
@@ -112,6 +139,7 @@ h1{
     height: 473px;
    
 }
+
 
 .suti{
     color: #433224;
@@ -130,6 +158,3 @@ h1{
     margin-bottom: 1rem;
     font-variant: small-caps;
 }
-/*.blog{
-    justify-content:;
-}*/
