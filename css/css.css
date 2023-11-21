@@ -142,7 +142,7 @@ p{
    
 }
 
-<<<<<<< HEAD
+
 .suti{
     color: #433224;
     background-color: #e0c5af;
@@ -178,6 +178,19 @@ p{
 .rolunk h1 {
     display: inline-block;
 }
-=======
-
->>>>>>> 5588a9b49f1ce7d1c7d5fb63da7c067e0cfe159c
+.footer{
+    background-color: #d2b59e;
+    color: black;
+}
+.footer li{
+    list-style-type: none;
+    
+}
+.footer li>img{
+    width: 15px;
+    margin-right: 10px;
+}
+#napiajánlat{
+    width: 5%;
+    height: 3%;
+}
