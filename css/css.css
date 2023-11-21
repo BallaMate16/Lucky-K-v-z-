@@ -66,6 +66,7 @@ h1{
     margin-left: 50px;
     margin-right: 50px;
     border-radius: 20px;
+    
 }
 .kep2{
     background-color: #d2b59e;
@@ -84,10 +85,36 @@ p{
     font-size: 45px;
     text-align: left;
 }
-.blogkep1{
-    float: left;
 
+.sz1{
+    font-size: 40px;
+    text-align: right;
+   padding-left: 50px;
+   
 }
+.sz{
+    font-size: 40px;
+    text-align: left;
+   padding-left: 50px;
+   padding-bottom: 40px;
+}
+.sz2{
+    font-size: 40px;
+    text-align: left;
+   padding-left: 50px;
+   
+}
+.bcim{
+    color:  #433224;
+    text-align: left;
+    
+}
+.bcim1{
+    color: #433224;
+    text-align: right;
+    
+}
+
 
 .szoveg1{
     text-align: left;
@@ -120,6 +147,8 @@ p{
     border-radius: 8px;
 }
 
+
+
 .kepeskep{
     padding-left: 175px;
     max-width: 75%;
@@ -130,16 +159,21 @@ p{
 
 
 .blogkep2{
-    float: left;
-    width:560px;
-    height: 473px;
+    float: right;
+    width: 500px;
+    height: 417px;
+    
    
+}
+.blogkep1{
+    float: left;
+    width: 500px;
+    height: 396px;
 }
 .blogkep3{
     float: left;
-    width:560px;
-    height: 473px;
-   
+    width: 500px;
+    height: 416px;
 }
 
 
