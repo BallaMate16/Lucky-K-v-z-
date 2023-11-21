@@ -177,3 +177,54 @@ p{
 }
 
 
+.suti{
+    color: #433224;
+    background-color: #e0c5af;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    border:1px solid;
+    /*position: relative;*/
+    
+}
+.suti:hover{
+    box-shadow: 0px 0px 5px #d2b59e;
+}
+.suti h2{
+   font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
+}
+
+.col-lg-4{
+    display: inline-block;
+}
+.rolunk h1{
+    text-align: left;
+    font-size: 400%;
+    margin-bottom: 2%;
+}
+.rolunk ul{
+    list-style-type: none;
+    font-size: 200%;
+}
+.rolunk h1 {
+    display: inline-block;
+}
+.footer{
+    background-color: #d2b59e;
+    color: black;
+}
+.footer li{
+    list-style-type: none;
+    
+}
+.footer li>img{
+    width: 15px;
+    margin-right: 10px;
+}
+#napiajánlat{
+    width: 5%;
+    height: 3%;
+}
