@@ -36,7 +36,6 @@ nav a{
 .fooldal{
         background-image:url(../img/kávézó/index.jpg);
         background-size:cover;
-        background-repeat: no-repeat;
         position: fixed;}
       
 h1{
