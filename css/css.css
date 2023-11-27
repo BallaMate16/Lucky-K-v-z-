@@ -2,6 +2,7 @@
 
 body{
     background-color: #634832;
+   
 }
 .logo{
     width: 50px;
@@ -31,6 +32,7 @@ nav a{
     background-size: cover;
     height: 400px;
     background-repeat: repeat;
+   
 }   
 
 .fooldal{
@@ -177,6 +179,7 @@ p{
 }
 
 
+
 .suti{
     color: #433224;
     background-color: #e0c5af;
@@ -233,11 +236,18 @@ p{
 
 }
 .button{
+<<<<<<< HEAD
+    border-radius: 18%;
+<<<<<<< HEAD
+
+=======
+=======
     border-radius: 10%;
     font-size: 25px;
     padding-top: 2px;
     background-color: rgb(162, 160, 160);
     
+>>>>>>> ac3c877ca5be739a6d02c3abbf5b22c609c349ff
 }
 #muffin{
     height: 380px;
@@ -247,6 +257,9 @@ p{
 }
 #tiramisu{
     height: 363px;
+<<<<<<< HEAD
+>>>>>>> 57aa5d0ee8b9a08db15bb91d0cf3787ce05878c1
+=======
 }
 #kapcs{
     margin-left: -80%;
@@ -282,4 +295,5 @@ p{
 }
 #hhh{
     font-size: 25px;
+>>>>>>> ac3c877ca5be739a6d02c3abbf5b22c609c349ff
 }
