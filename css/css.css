@@ -37,7 +37,7 @@ nav a{
 
 .fooldal{
         background-image:url(../img/kávézó/index.jpg);
-        background-size:cover;
+        background-size:2000px;
         background-repeat: no-repeat;
         position: fixed;}
       
@@ -231,5 +231,17 @@ p{
 }
 .button{
     border-radius: 18%;
+<<<<<<< HEAD
 
+=======
+}
+#muffin{
+    height: 380px;
+}
+#choux{
+    height: 380px;
+}
+#tiramisu{
+    height: 363px;
+>>>>>>> 57aa5d0ee8b9a08db15bb91d0cf3787ce05878c1
 }
