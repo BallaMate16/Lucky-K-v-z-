@@ -228,7 +228,7 @@ p{
 }
 #napiajánlat{
     width: 12%;
-    height: 8%;
+    height: 10%;
     top:10px;
     right: 20px;
     position: absolute;
@@ -236,18 +236,11 @@ p{
 
 }
 .button{
-<<<<<<< HEAD
     border-radius: 18%;
-<<<<<<< HEAD
-
-=======
-=======
     border-radius: 10%;
     font-size: 25px;
     padding-top: 2px;
     background-color: rgb(162, 160, 160);
-    
->>>>>>> ac3c877ca5be739a6d02c3abbf5b22c609c349ff
 }
 #muffin{
     height: 380px;
@@ -256,10 +249,8 @@ p{
     height: 380px;
 }
 #tiramisu{
-    height: 363px;
-<<<<<<< HEAD
->>>>>>> 57aa5d0ee8b9a08db15bb91d0cf3787ce05878c1
-=======
+    height: 380px;
+
 }
 #kapcs{
     margin-left: -80%;
@@ -292,8 +283,18 @@ p{
     text-align: center;
     font-weight: bold;
     font-size: 35px;
+    
 }
 #hhh{
     font-size: 25px;
->>>>>>> ac3c877ca5be739a6d02c3abbf5b22c609c349ff
+   
+
+}
+#capp{
+    width: 415px;
+    height: 415px;
+}
+#ice{
+    width:410px ;
+    height:381px ;
 }
