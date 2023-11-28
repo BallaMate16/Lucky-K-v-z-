@@ -2,6 +2,7 @@
 
 body{
     background-color: #634832;
+   
 }
 .logo{
     width: 50px;
@@ -31,6 +32,7 @@ nav a{
     background-size: cover;
     height: 400px;
     background-repeat: repeat;
+   
 }   
 
 .fooldal{
@@ -181,13 +183,14 @@ p{
 }
 
 
+
 .suti{
     color: #433224;
     background-color: #e0c5af;
     border-radius: 4px;
     margin-bottom: 1rem;
     border:1px solid;
-    /*position: relative;*/
+    position: relative;
     
 }
 .suti:hover{
@@ -201,9 +204,7 @@ p{
     font-variant: small-caps;
 }
 
-/*.col-lg-4{
-    display: inline-block;
-}*/
+
 .rolunk h1{
     text-align: left;
     font-size: 400%;
@@ -230,14 +231,27 @@ p{
     margin-right: 10px;
 }
 #napiajánlat{
-    width: 5%;
-    height: 3%;
+    width: 12%;
+    height: 8%;
+    top:10px;
+    right: 20px;
+    position: absolute;
+    
+
 }
 .button{
+<<<<<<< HEAD
+    border-radius: 18%;
+<<<<<<< HEAD
+
+=======
+=======
     border-radius: 10%;
     font-size: 25px;
-    padding-top: 6px;
+    padding-top: 2px;
+    background-color: rgb(162, 160, 160);
     
+>>>>>>> ac3c877ca5be739a6d02c3abbf5b22c609c349ff
 }
 #muffin{
     height: 380px;
@@ -247,6 +261,9 @@ p{
 }
 #tiramisu{
     height: 363px;
+<<<<<<< HEAD
+>>>>>>> 57aa5d0ee8b9a08db15bb91d0cf3787ce05878c1
+=======
 }
 #kapcs{
     margin-left: -80%;
@@ -268,10 +285,10 @@ p{
     padding-top: 16px;
 }
 #irat{
-    font-size: 40px;
+    font-size: 30px;
 }
 .place{
-    font-size: 40px;
+    font-size: 25px;
     height:45px;
 }
 #ar{
@@ -282,4 +299,5 @@ p{
 }
 #hhh{
     font-size: 25px;
+>>>>>>> ac3c877ca5be739a6d02c3abbf5b22c609c349ff
 }
