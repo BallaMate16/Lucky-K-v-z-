@@ -266,7 +266,7 @@ p{
     margin-left: -80%;
     font-size: 30px;
 }
-#ikep{
+.ikep{
     width: 60px;
     height: 40px;
 }
@@ -282,14 +282,14 @@ p{
     font-size: 25px;
     height:45px;
 }
-#ar{
+.ar{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-weight: bold;
     font-size: 35px;
     
 }
-#hhh{
+.hhh{
     font-size: 25px;
    
 
